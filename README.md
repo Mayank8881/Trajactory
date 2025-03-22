@@ -1,6 +1,4 @@
-Here's a README file for your **Trajectory AI** project repository:
 
----
 
 # 🚀 **Trajectory AI: Smart Career Mentor**
 
