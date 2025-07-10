@@ -8,7 +8,7 @@ export type Skill = Database["public"]["Tables"]["skills"]["Row"];
 export type CareerGoal = Database["public"]["Tables"]["career_goals"]["Row"];
 
 /**
- * Service for managing user data and interactions
+ * Service for managing user data and interaction
  */
 export const UserService = {
   /**
